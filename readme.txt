@@ -5,3 +5,4 @@ new line
 Creating a new branch is quick.
 主线新特性验证
 Creating new branch and simple
+分支管理策略
